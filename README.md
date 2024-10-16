@@ -21,7 +21,7 @@ Here are the technologies used in this project.
 ![Posts](https://github.com/Douglas-Rodrigues1988/js-music-keyboard-virtual/blob/main/src/img/fim.png)
 
 ## Links
-  - Site: https://douglas-rodrigues1988.github.io/desafio-jogo-da-memoria/
+  - Site: https://douglas-rodrigues1988.github.io/js-music-keyboard-virtual/
   - Repository: https://github.com/Douglas-Rodrigues1988/js-music-keyboard-virtual
     - In case of sensitive bugs such as security vulnerabilities, please contact us
       dlorodriguesweb3@gmail.com directly instead of using the issue tracker. We value your effort
